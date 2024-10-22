@@ -1,4 +1,8 @@
 body {
   background-color: #bababa;
 }
-.title-panel
+.title-bar {
+  background-color: teal;
+  color: white;
+  font-family: "Product Sans";
+}
