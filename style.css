@@ -6,7 +6,8 @@ body {
   color: white;
   font-family: "Product Sans";
   display: inline-block;
-  padding-right: 50px;
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
   height: 50px;
   overflow: hidden;
   align: center;
