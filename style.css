@@ -13,4 +13,19 @@ body {
   overflow: hidden;
   align: center;
   width: 100%;
+  box-shadow: 0 0 5px 0;
+}
+.title-logo {
+  text-decoration: none;
+  float: left;
+  padding: 5px;
+}
+.title-button {
+  text-decoration: none;
+  float: left;
+  padding: 5px;
+}
+.title-button:hover {
+  background-color: #c0c0c0;
+  color: teal;
 }
