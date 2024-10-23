@@ -19,15 +19,17 @@ body {
   text-decoration: none;
   float: left;
   color: #c0c0c0;
-  margin: 20px;
+  margin: 15px;
   display: block;
+  padding: 15px;
 }
 .title-button {
   text-decoration: none;
   float: left;
   color: #c0c0c0;
-  margin: 20px;
+  margin: 15px;
   display: block;
+  padding: 15px;
 }
 .title-button:hover {
   background-color: #c0c0c0;
