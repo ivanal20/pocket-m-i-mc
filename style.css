@@ -9,8 +9,11 @@ body {
   padding-right: 50px;
   height: 50px;
   overflow: hidden;
+  align: center;
+  width: 100%;
 }
-img {
+.title-icon {
   width: 150px;
   height: 50px;
+  float: left
 }
