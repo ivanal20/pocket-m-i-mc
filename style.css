@@ -14,7 +14,7 @@ body {
   align: center;
   width: 100%;
   box-shadow: 0 0 5px 0;
-  position: sticky;
+  position: fixed;
 }
 .title-logo {
   text-decoration: none;
