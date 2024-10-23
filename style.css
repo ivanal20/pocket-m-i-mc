@@ -5,7 +5,7 @@ body {
 .title-bar {
   background-color: teal;
   color: white;
-  font-family: "Product Sans";
+  font-family: Helvetica;
   display: inline-block;
   padding: 0 0 0 0;
   margin: 0 0 0 0;
@@ -18,12 +18,14 @@ body {
 .title-logo {
   text-decoration: none;
   float: left;
-  padding: 5px;
+  color: #c0c0c0;
+  margin: 20px;
 }
 .title-button {
   text-decoration: none;
   float: left;
-  padding: 5px;
+  color: #c0c0c0;
+  margin: 20px;
 }
 .title-button:hover {
   background-color: #c0c0c0;
