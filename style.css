@@ -4,7 +4,7 @@ body {
 }
 .title-bar {
   background-color: teal;
-  color: white;
+  color: #000000;
   font-family: Helvetica;
   display: inline-block;
   padding: 0 0 0 0;
