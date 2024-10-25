@@ -37,7 +37,7 @@ body {
   display: block;
 }
 .title-404 {
-  color: #5FB2ED;
+  color: teal; /*#5FB2ED*/
   font-family: Helvetica;
 }
 .text-404 {
