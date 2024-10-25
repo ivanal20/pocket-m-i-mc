@@ -36,3 +36,16 @@ body {
   color: teal;
   display: block;
 }
+.title-404 {
+  color: #5FB2ED;
+  font-family: Helvetica;
+}
+.text-404 {
+  color: #505152;
+  font-family: Helvetica;
+}
+.error-code-404 {
+  color: black;
+  border: solid 2px black;
+  border-radius: 2px;
+}
