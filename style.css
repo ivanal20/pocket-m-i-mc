@@ -58,4 +58,6 @@ body {
   position: fixed;
   display: flex;
   border-top: 1px solid black;
+  flex-direction: column;
+  justify-content: flex-end;
 }
