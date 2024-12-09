@@ -50,3 +50,9 @@ body {
   border-radius: 2px;
   padding: 10px;
 }
+.bottom-bar {
+  background-color: white;
+  height: 15px;
+  width: 100%;
+  top: 100%;
+}
